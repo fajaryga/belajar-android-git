@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:7:22-69
+application
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:9:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\amikom\.android\build-cache\8279eaafbc0ba857f86ad81309d43e12a2895273\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\amikom\.android\build-cache\d439b231bea8525bf39ac0d801e4dcafff09c50d\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\amikom\.android\build-cache\b15338218007aecbdfdbc8fc8141bdc315879cdd\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\amikom\.android\build-cache\f3eec264afb30d3428fd9e90ade66dcf4ee86975\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\amikom\.android\build-cache\87640c2c52dc83b2ba2ec939576dcc11702fb7d2\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\amikom\.android\build-cache\b4c2d32697e2dabde3d0a6ef97ccc43f4806a58e\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\amikom\.android\build-cache\b955c121c03e6e6af987e18e31f8c03f44c254a9\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\amikom\.android\build-cache\bbdf2ed1661edc1e8bfb437ff461339d17d037cb\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\amikom\.android\build-cache\673aa60acc6b922b6d1cd09faa686808140ec415\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\amikom\.android\build-cache\f42974ee985cebb437dab581e20ebf76b1a3af47\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\amikom\.android\build-cache\27581817f5288b07d37eaf31491022f023433b8c\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\amikom\.android\build-cache\51b8ebe94b8666ef5949b11413c84707e77eafc5\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\amikom\.android\build-cache\456e82ba9839123f8e0d3200efaaf8ff8e180422\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\amikom\.android\build-cache\679eca1ee7c5e7c4e4db5046b95f854c283a116a\output\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:10:9-39
+activity#yoga.fajar.simpleapplication.Splashscreen
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:noHistory
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:18:19-43
+	android:name
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:22:27-74
+activity#yoga.fajar.simpleapplication.LoginActivity
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:25:19-48
+activity#yoga.fajar.simpleapplication.MainActivity
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:26:19-47
+activity#yoga.fajar.simpleapplication.pindahActivity
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:27:9-52
+	android:name
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:27:19-49
+activity#yoga.fajar.simpleapplication.FragmentActivity
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:28:9-54
+	android:name
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:28:19-51
+activity#yoga.fajar.simpleapplication.activity.AddUserActivity
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:29:9-62
+	android:name
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:29:19-59
+activity#yoga.fajar.simpleapplication.activity.DetailActivity
+ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:30:9-70
+	android:name
+		ADDED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml:30:19-58
+uses-sdk
+INJECTED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\amikom\.android\build-cache\b669762f84027867e1fdd6e350fc52319a5fde8c\output\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\amikom\.android\build-cache\5ec8af6f77361accaa27f939e00bff4766da5a0d\output\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\amikom\.android\build-cache\222bd7da67d91a9d1d7f012b707c1f15c52e2e02\output\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\amikom\.android\build-cache\ce0a97c39c9f1da4d2540d3a2a930296f24da20c\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\amikom\.android\build-cache\8279eaafbc0ba857f86ad81309d43e12a2895273\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\amikom\.android\build-cache\d439b231bea8525bf39ac0d801e4dcafff09c50d\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\amikom\.android\build-cache\b15338218007aecbdfdbc8fc8141bdc315879cdd\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\amikom\.android\build-cache\f3eec264afb30d3428fd9e90ade66dcf4ee86975\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\amikom\.android\build-cache\87640c2c52dc83b2ba2ec939576dcc11702fb7d2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\amikom\.android\build-cache\b4c2d32697e2dabde3d0a6ef97ccc43f4806a58e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\amikom\.android\build-cache\b955c121c03e6e6af987e18e31f8c03f44c254a9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\amikom\.android\build-cache\bbdf2ed1661edc1e8bfb437ff461339d17d037cb\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\amikom\.android\build-cache\673aa60acc6b922b6d1cd09faa686808140ec415\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\amikom\.android\build-cache\f42974ee985cebb437dab581e20ebf76b1a3af47\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\amikom\.android\build-cache\27581817f5288b07d37eaf31491022f023433b8c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\amikom\.android\build-cache\51b8ebe94b8666ef5949b11413c84707e77eafc5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\amikom\.android\build-cache\456e82ba9839123f8e0d3200efaaf8ff8e180422\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\amikom\.android\build-cache\679eca1ee7c5e7c4e4db5046b95f854c283a116a\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\amikom\.android\build-cache\d439b231bea8525bf39ac0d801e4dcafff09c50d\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\17.02.0052\Pertemuan1\SimpleApplication\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\amikom\.android\build-cache\d439b231bea8525bf39ac0d801e4dcafff09c50d\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\amikom\.android\build-cache\b15338218007aecbdfdbc8fc8141bdc315879cdd\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\amikom\.android\build-cache\f3eec264afb30d3428fd9e90ade66dcf4ee86975\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\amikom\.android\build-cache\87640c2c52dc83b2ba2ec939576dcc11702fb7d2\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\amikom\.android\build-cache\b4c2d32697e2dabde3d0a6ef97ccc43f4806a58e\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\amikom\.android\build-cache\b955c121c03e6e6af987e18e31f8c03f44c254a9\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\amikom\.android\build-cache\bbdf2ed1661edc1e8bfb437ff461339d17d037cb\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\amikom\.android\build-cache\673aa60acc6b922b6d1cd09faa686808140ec415\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\amikom\.android\build-cache\f42974ee985cebb437dab581e20ebf76b1a3af47\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\amikom\.android\build-cache\27581817f5288b07d37eaf31491022f023433b8c\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\amikom\.android\build-cache\51b8ebe94b8666ef5949b11413c84707e77eafc5\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\amikom\.android\build-cache\456e82ba9839123f8e0d3200efaaf8ff8e180422\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\amikom\.android\build-cache\d439b231bea8525bf39ac0d801e4dcafff09c50d\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\amikom\.android\build-cache\d439b231bea8525bf39ac0d801e4dcafff09c50d\output\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\amikom\.android\build-cache\679eca1ee7c5e7c4e4db5046b95f854c283a116a\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\amikom\.android\build-cache\679eca1ee7c5e7c4e4db5046b95f854c283a116a\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\amikom\.android\build-cache\679eca1ee7c5e7c4e4db5046b95f854c283a116a\output\AndroidManifest.xml:26:13-58
