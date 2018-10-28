@@ -15,20 +15,19 @@ import yoga.fajar.simpleapplication.util.PreferencesHelper;
 
 public class MainActivity extends AppCompatActivity {
 
-
     private TextView name;
     private EditText editText;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        name = findViewById(R.id.etName);
+        name = (TextView) findViewById(R.id.etName);
         editText = findViewById(R.id.inputText);
 
         name.setText("Hello : "+PreferencesHelper.getInstance(getApplicationContext()).getName());
+
     }
 
         public void toAct(View view) {
