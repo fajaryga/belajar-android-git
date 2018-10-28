@@ -1,5 +1,5 @@
 # belajar-android-git
-Project : Simple Application 
-Nama    : Fajar Yoga Pratama
-Kelas   : D3MI01
-NIM     : 17.02.0052
+Project : Simple Application <br/>
+Nama    : Fajar Yoga Pratama<br/>
+Kelas   : D3MI01<br/>
+NIM     : 17.02.0052<br/>
